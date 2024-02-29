@@ -1,0 +1,15 @@
+.vscode/
+c*
+!cliente.c
+
+s*
+!servidor.c
+!src
+
+*.out
+*.exe
+*.txt
+
+fifo
+monitor
+target
